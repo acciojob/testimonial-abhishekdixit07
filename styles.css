@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+div{
+	width:90%;
+	height:80px;
+	background-color: white;
+	border:2px solid black;
+	margin: auto;
+    margin-top:5px;
+	padding:2px ;
+	
+}
+footer{
+	text-align:right;
+}
