@@ -14,10 +14,11 @@ div{
 	border:2px solid black;
 	margin: auto;
 	margin-top:5px;
-	padding:2px;
+	padding:5px;
 }
-
-footer{
+.foot{
+		
 	text-align:right;
 	font-style: italic;
+	padding:5px;
 }
