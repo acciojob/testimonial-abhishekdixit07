@@ -4,10 +4,10 @@ body{
 	
 }
 h1{
-	margin-left:20px;
+	margin-left:30px;
 }
 
-div{
+.main{
 	width:90%;
 	height:80px;
 	background-color: white;
